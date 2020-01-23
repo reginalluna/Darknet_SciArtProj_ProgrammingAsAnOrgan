@@ -33,6 +33,6 @@
 > 3. Type ``pip --help`` on **PowerShell** 
 > 4. Type ``pip install --upgrade pip``
 
-**Installating TensorFlow 2 on Windows using Python**
+**Installating [TensorFlow2](https://www.tensorflow.org/install/#download-a-package) on Windows using Python**
 > 1. Open **Power Shell(run as administrator)** and type ``pip install tensorflow``
 
