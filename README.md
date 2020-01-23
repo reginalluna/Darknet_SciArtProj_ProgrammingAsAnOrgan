@@ -34,5 +34,15 @@
 > 4. Type ``pip install --upgrade pip``
 
 **Installating [TensorFlow2](https://www.tensorflow.org/install/#download-a-package) on Windows using Python**
-> 1. Open **Power Shell(run as administrator)** and type ``pip install tensorflow``
-
+>  Open **Power Shell(run as administrator)** and type 
+>>* `` pip install --upgrade pip``
+>>* ``pip3 install --user --upgrade tensorflow  # install in $HOME``
+>>* ``python3 -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"``
+---
+**NOTE**
+> Potential ERROR: 
+>>Could not install packages due to an EnvironmentError: [Errno 2] No such file or directory: 'C:\\Users\\pc\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.7_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python37\\site-packages\\tensorflow_estimator\\python\\estimator\\canned\\linear_optimizer\\python\\utils\\__pycache__\\sharded_mutable_dense_hashtable.cpython-37.pyc' 
+>Solution:
+>> Uninstall python then ReInstalled it again but this time after a successful reinstallation; at the last step, click **HAVE TO DISABLE THE PATH LENGTH LIMIT**
+---
+![HAVE TO DISABLE THE PATH LENGTH LIMIT](https://i.stack.imgur.com/wC9Pq.png)
