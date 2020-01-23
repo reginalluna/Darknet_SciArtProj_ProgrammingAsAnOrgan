@@ -13,8 +13,8 @@
  ---
 ![Release Darknet](https://66.media.tumblr.com/7d7da4eae8af2012b39c573ab18ef7bf/af3a7a1d70f93c22-21/s540x810/58b0e47d79bba8c113b07b6669fd0c9b35f26066.png)
  ---
- >> a. Set **Release**, **x64**
- >> b. Click **Build** and choose **Build Solution**. Or press **Ctrl+Shift+B**
+ >> * Set **Release**, **x64**
+ >> * Click **Build** and choose **Build Solution**. Or press **Ctrl+Shift+B**
   3. Build Success 
  --- 
   ![Build Success](https://66.media.tumblr.com/820244e83ea77e4870ba0d8400f663e7/af3a7a1d70f93c22-d8/s540x810/05e4f238e2ef1c11edce8eff7e6e964f84a883d9.png)
