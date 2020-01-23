@@ -22,3 +22,6 @@
 
 **Installating Python2,3 on Windows**
 > 1. Download **[ATOM](https://atom.io/)** and **[Python2&3](https://www.python.org)**
+> 2. Open **Power Shell(run as administrator)** and **ATOM**;
+> 3. Click **File** -> **New File** (**Ctrl+N**);
+>> ![ATOM_NEWFILE](https://66.media.tumblr.com/e587e71a41ccf789702416c445230c00/5df67f4da7626769-23/s540x810/a41cb4c4760e4787dce9b845314a48cc6294f598.png)
