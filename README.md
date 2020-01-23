@@ -21,4 +21,4 @@
  >![Build Success](https://66.media.tumblr.com/820244e83ea77e4870ba0d8400f663e7/af3a7a1d70f93c22-d8/s540x810/05e4f238e2ef1c11edce8eff7e6e964f84a883d9.png)
 
 **Installating Python2,3 on Windows**
-> 1. Download **[ATOM](https://atom.io/)** 
+> 1. Download **[ATOM](https://atom.io/)** and **[Python2&3](https://www.python.org)**
